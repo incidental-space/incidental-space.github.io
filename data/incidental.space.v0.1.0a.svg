@@ -1,0 +1,136 @@
+<svg id="logo" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     height="64" width="64" class="is-logo">
+  <polygon points="11.215,44 21.608,50 18.144,44">
+    <animate
+      begin="logo.click"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="11.215,44 21.608,50 18.144,44; 11.215,44 21.608,50 14.679,50; 11.215,44 21.608,50 18.144,44"
+      from="11.215,44 21.608,50 18.144,44"
+      to="11.215,44 21.608,50 18.144,44"
+      fill="freeze" />
+  </polygon>
+  <polygon points="21.608,50 32,56 28.536,50">
+    <animate
+      begin="logo.click + 100ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="21.608,50 32,56 28.536,50; 21.608,50 32,56 25.071,56; 21.608,50 32,56 28.536,50"
+      from="21.608,50 32,56 28.536,50"
+      to="21.608,50 32,56 28.536,50"
+      fill="freeze" />
+  </polygon>
+  <polygon points="32,56 42.393,50 35.464,50">
+    <animate
+      begin="logo.click + 200ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="32,56 42.393,50 35.464,50; 32,56 42.393,50 38.929,56; 32,56 42.393,50 35.464,50"
+      from="32,56 42.393,50 35.464,50"
+      to="32,56 42.393,50 35.464,50"
+      fill="freeze" />
+  </polygon>
+  <polygon points="42.393,50 52.785,44 45.857,44">
+    <animate
+      begin="logo.click + 300ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="42.393,50 52.785,44 45.857,44; 42.393,50 52.785,44 49.322,50; 42.393,50 52.785,44 45.857,44"
+      from="42.393,50 52.785,44 45.857,44"
+      to="42.393,50 52.785,44 45.857,44"
+      fill="freeze" />
+  </polygon>
+  <polygon points="52.785,44 52.785,32 49.321,38">
+    <animate
+      begin="logo.click + 400ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="52.785,44 52.785,32 49.321,38; 52.785,44 52.785,32 56.25,38; 52.785,44 52.785,32 49.321,38"
+      from="52.785,44 52.785,32 49.321,38"
+      to="52.785,44 52.785,32 49.321,38"
+      fill="freeze" />
+  </polygon>
+  <polygon points="52.785,32 52.785,20 49.321,26">
+    <animate
+      begin="logo.click + 500ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="52.785,32 52.785,20 49.321,26; 52.785,32 52.785,20 56.25,26; 52.785,32 52.785,20 49.321,26"
+      from="52.785,32 52.785,20 49.321,26"
+      to="52.785,32 52.785,20 49.321,26"
+      fill="freeze" />
+  </polygon>
+  <polygon points="52.785,20 42.393,14 45.857,20">
+    <animate
+      begin="logo.click + 600ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="52.785,20 42.393,14 45.857,20; 52.785,20 42.393,14 49.322,14; 52.785,20 42.393,14 45.857,20"
+      from="52.785,20 42.393,14 45.857,20"
+      to="52.785,20 42.393,14 45.857,20"
+      fill="freeze" />
+  </polygon>
+  <polygon points="42.393,14 32,8 35.464,14">
+    <animate
+      begin="logo.click + 700ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="42.393,14 32,8 35.464,14; 42.393,14 32,8 38.929,8; 42.393,14 32,8 35.464,14"
+      from="42.393,14 32,8 35.464,14"
+      to="42.393,14 32,8 35.464,14"
+      fill="freeze" />
+  </polygon>
+  <polygon points="32,8 21.608,14 28.536,14">
+    <animate
+      begin="logo.click + 800ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="32,8 21.608,14 28.536,14; 32,8 21.608,14 25.071,8; 32,8 21.608,14 28.536,14"
+      from="32,8 21.608,14 28.536,14"
+      to="32,8 21.608,14 28.536,14"
+      fill="freeze" />
+  </polygon>
+  <polygon points="21.608,14 11.215,20 18.144,20">
+    <animate
+      begin="logo.click + 900ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="21.608,14 11.215,20 18.144,20; 21.608,14 11.215,20 14.679,14; 21.608,14 11.215,20 18.144,20"
+      from="21.608,14 11.215,20 18.144,20"
+      to="21.608,14 11.215,20 18.144,20"
+      fill="freeze" />
+  </polygon>
+  <polygon points="11.215,20 11.215,32 14.679,26">
+    <animate
+      begin="logo.click + 1000ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="11.215,20 11.215,32 14.679,26; 11.215,20 11.215,32 7.75,26; 11.215,20 11.215,32 14.679,26"
+      from="11.215,20 11.215,32 14.679,26"
+      to="11.215,20 11.215,32 14.679,26"
+      fill="freeze" />
+  </polygon>
+  <polygon points="11.215,32 11.215,44 14.679,38">
+    <animate
+      begin="logo.click + 1100ms"
+      dur="550ms"
+      attributeName="points"
+      keyTimes="0; 0.5; 1"
+      values="11.215,32 11.215,44 14.679,38; 11.215,32 11.215,44 7.75,38; 11.215,32 11.215,44 14.679,38"
+      from="11.215,32 11.215,44 14.679,38"
+      to="11.215,32 11.215,44 14.679,38"
+      fill="freeze" />
+  </polygon>
+</svg>
