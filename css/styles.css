@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+}
+.title-box {
+    height: 100%;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+}
+.logo-box {
+    flex: 2 2 16%;
+    min-width: 300px;
+}
+#logo {
+    margin: 0px 16%;
+}
+.title {
+    flex: 1 1 auto;
+    display: inline-block;
+    margin: auto;
+    font-family: quicksand;
+    font-size: 5em;
+    font-weight: 400;
+}
