@@ -7,12 +7,9 @@ html, body {
     display: flex;
     align-items: center;
 }
-.logo-box {
-    flex: 2 2 16%;
-    min-width: 300px;
-}
-#logo {
-    margin: 0px 16%;
+.logo {
+    flex: 1 1 auto;
+    height: 100%;
 }
 .title {
     flex: 1 1 auto;
