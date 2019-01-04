@@ -2,20 +2,26 @@ html, body {
     height: 100%;
 }
 .title-box {
-    height: 100%;
     padding: 0px 10px;
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 .logo {
     flex: 1 1 auto;
-    height: 100%;
+    max-height: 600px;
 }
 .title {
     flex: 1 1 auto;
     display: inline-block;
-    margin: auto;
     font-family: quicksand;
     font-size: 5em;
     font-weight: 400;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .title-box {
+        flex-direction: row;
+    }
 }
