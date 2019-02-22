@@ -10,6 +10,7 @@ html, body {
 .logo {
     flex: 1 1 auto;
     max-height: 600px;
+    padding: 1rem 2rem 0;
 }
 .title {
     flex: 1 1 auto;

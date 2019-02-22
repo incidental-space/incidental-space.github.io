@@ -1,0 +1,16 @@
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 41.57 48">
+  <polygon points="0,36 10.393,42 6.929,36" />
+  <polygon points="10.393,42 20.785,48 17.321,42" />
+  <polygon points="20.785,48 31.178,42 24.249,42" />
+  <polygon points="31.178,42 41.57,36 34.642,36" />
+  <polygon points="41.57,36 41.57,24 38.106,30" />
+  <polygon points="41.57,24 41.57,12 38.106,18" />
+  <polygon points="41.57,12 31.178,6 34.642,12" />
+  <polygon points="31.178,6 20.785,0 24.249,6" />
+  <polygon points="20.785,0 10.393,6 17.321,6" />
+  <polygon points="10.393,6 0,12 6.929,12" />
+  <polygon points="0,12 0,24 3.464,18" />
+  <polygon points="0,24 0,36 3.464,30" />
+</svg>
